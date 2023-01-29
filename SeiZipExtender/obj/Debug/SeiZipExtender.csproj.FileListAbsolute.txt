@@ -1,0 +1,12 @@
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\bin\Debug\SeiZipExtender.exe.config
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\bin\Debug\SeiZipExtender.exe
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\bin\Debug\SeiZipExtender.pdb
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\bin\Debug\System.IO.Compression.dll
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.Properties.Resources.resources
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.csproj.GenerateResource.cache
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.csproj.CoreCompileInputs.cache
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.csproj.CopyComplete
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.exe
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.pdb
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.csprojResolveAssemblyReference.cache
+C:\Users\Anshul-Mehra\Desktop\FileReader\SeiZipExtender\SeiZipExtender\obj\Debug\SeiZipExtender.Form1.resources
